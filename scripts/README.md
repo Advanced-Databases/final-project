@@ -1,4 +1,4 @@
-# Migradion Scripts
+# Migration Scripts
 In this folder you can find the scripts used to migrate from the SQL Warehouse to NO-SQL warehouses (Cassandra, MongoDB). 
 
 ## cassandra_scripts
